@@ -18,5 +18,9 @@
       <li><a href="/one-day-php/ch3/output.php">output.php</a></li>
       <li><a href="/one-day-php/ch3/includedemo.php">includedemo.php</a></li>
     </ul>
+    <h3>Chapter 4</h3>
+    <ul>
+      <li><a href="/one-day-php/ch4/chap4.php">chap4.php</a></li>
+    </ul>
   </body>
 </html>
